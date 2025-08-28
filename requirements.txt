@@ -1,13 +1,26 @@
+# Streamlit UI
 streamlit
+
+# Core ML Frameworks
 torch
 transformers
+
+# Audio processing
 librosa
 soundfile
-deepface
+
+# Image processing
 Pillow
-matplotlib
+opencv-python  # required by DeepFace
+
+# Face emotion recognition
+deepface
+
+# Optional utilities (for evaluation, charts, and audio)
 scikit-learn
-gtts
+matplotlib
+
+# Optional (only if using text-to-speech or audio conversion locally)
+gTTS
 pydub
 ffmpeg-python
-
