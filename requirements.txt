@@ -1,0 +1,13 @@
+streamlit
+torch
+transformers
+librosa
+soundfile
+deepface
+Pillow
+matplotlib
+scikit-learn
+gtts
+pydub
+ffmpeg-python
+
